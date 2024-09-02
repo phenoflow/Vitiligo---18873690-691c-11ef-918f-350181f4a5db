@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/periocular-vitiligo---secondary.py
+inputModule3:
+  class: File
+  path: python/vitiligo---secondary.py
+inputModule4:
+  class: File
+  path: python/right-vitiligo---secondary.py
+inputModule5:
+  class: File
+  path: python/vitiligo-unspecified---secondary.py
+inputModule6:
+  class: File
+  path: python/lower-vitiligo---secondary.py
+inputModule7:
+  class: File
+  path: python/upper-vitiligo---secondary.py
+inputModule8:
+  class: File
+  path: python/occupational-vitiligo---secondary.py
+inputModule9:
+  class: File
+  path: python/vitiligo-pinta---secondary.py
+inputModule10:
+  class: File
+  path: python/eyelid-vitiligo---secondary.py
+inputModule11:
+  class: File
+  path: python/vitiligo-iridis---secondary.py
+inputModule12:
+  class: File
+  path: python/vitiligo-localized---secondary.py
+inputModule13:
+  class: File
+  path: python/vitiligo-trichrome---secondary.py
+inputModule14:
+  class: File
+  path: python/vitiligo-generalized---secondary.py
+inputModule15:
+  class: File
+  path: python/idiopathic-vitiligo---secondary.py
+inputModule16:
+  class: File
+  path: python/segmental-vitiligo---secondary.py
+inputModule17:
+  class: File
+  path: python/vitiligo-kobnerization---secondary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
